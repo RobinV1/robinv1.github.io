@@ -1,5 +1,3 @@
 ---
-title: Personal website
+title: Work in Progress
 ---
-
-My attempt at making a personal website
