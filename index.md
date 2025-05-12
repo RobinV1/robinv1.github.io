@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Robin Verbeek
+title: Home
 permalink: /
 ---
