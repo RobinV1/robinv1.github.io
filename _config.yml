@@ -11,5 +11,4 @@ header_pages:
   - teaching.md
   - blog.md
 
-minima: 
-  skin: dark
+minima_skin: dark
