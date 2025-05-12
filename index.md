@@ -1,3 +1,5 @@
 ---
-title: Work in Progress
+layout: home
+title: Robin Verbeek
+permalink: /
 ---
