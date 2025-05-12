@@ -16,4 +16,4 @@ minima:
 
 remote_theme: jekyll/minima
 
-hide_site_feed_link: false
+hide_site_feed_link: true
