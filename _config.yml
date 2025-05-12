@@ -11,6 +11,12 @@ header_pages:
   - teaching.md
   - blog.md
 
+nav_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - blog.md
+
 minima:
   skin: dark
 
