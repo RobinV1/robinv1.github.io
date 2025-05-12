@@ -1,2 +1,8 @@
 theme: minima
 title: W.I.P.
+
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - blog.md
