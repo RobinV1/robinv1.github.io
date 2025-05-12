@@ -5,12 +5,6 @@ author:
   name: Robin Verbeek
   email: verbeek@ese.eur.nl
 
-header_pages:
-  - index.md
-  - research.md
-  - teaching.md
-  - blog.md
-
 nav_pages:
   - index.md
   - research.md
