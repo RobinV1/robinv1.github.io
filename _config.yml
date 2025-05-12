@@ -6,7 +6,7 @@ author:
   name: Robin Verbeek
   email: verbeek@ese.eur.nl
 
-nav_pages:
+header:
   - index.md
   - research.md
   - teaching.md
