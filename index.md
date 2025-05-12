@@ -1,6 +1,7 @@
 ---
 layout: home
-title: About me
+title: Home
 permalink: /
-nav_title: Home 
 ---
+ 
+# About me
