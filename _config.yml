@@ -1,6 +1,6 @@
 title: Robin Verbeek
 description: I am a PhD Candidate at the Erasmus School of Economics. The main focus of my PhD is on mental health.
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@1e8a445
 author:
   name: Robin Verbeek
   email: verbeek@ese.eur.nl
