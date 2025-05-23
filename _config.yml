@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Robin Verbeek"
+title                    : "Robin Verbeek / Robin Verbeek"
 title_separator          : "-"
 name                     : &name "Robin Verbeek"
 description              : &description "I am a PhD Candidate at the Erasmus School of Economics. The main focus of my PhD is on mental health."
