@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Work in Progress
-The mental health cost of cheap data: Evidence from around the world with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
+**The mental health cost of cheap data: Evidence from around the world** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
 
 ## Research Assistant
 **[Minority Salience and Criminal Justice Decisions](https://docs.iza.org/dp17396.pdf)** by [Kyra Hanemaaijer](https://www.kyrahanemaaijer.com/), [Nadine Ketel](https://sites.google.com/site/nadineketel/home), and [Olivier Marie](https://sites.google.com/site/oliviermarie/) (conditianally accepted at **American Economic Review: Insight**)  
