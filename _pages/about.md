@@ -11,5 +11,6 @@ My name is Robin Verbeek and I am a PhD candidate at the Erasmus School of Econo
 My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonnell) and [Olivier Marie](https://sites.google.com/site/oliviermarie/).
 
 ## Current projects
-The mental health cost of cheap data: Evidence from around the world with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
+**The mental health cost of cheap data: Evidence from around the world** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
+
 
