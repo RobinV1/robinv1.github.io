@@ -1,3 +1,9 @@
+---
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 ## Current teaching
 2024-Now: TA for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Niels Rietveld](https://www.eur.nl/en/people/niels-rietveld)  
 
