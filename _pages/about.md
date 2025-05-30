@@ -13,4 +13,11 @@ My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonne
 ## Current projects
 **The mental health cost of cheap data: Evidence from around the world** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
 
+## Teaching
+**Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Niels Rietveld](https://www.eur.nl/en/people/niels-rietveld)  
+
+**Seminar Economics of the Public Sector** with [Olivier Marie](https://sites.google.com/site/oliviermarie/) and [Elisabeth Leduc](https://sites.google.com/view/elisabethleduc/about-me)  
+
+**Thesis supervision** for the bachelors and masters in Economics, and the bachelor in Econometrics and Operations Research
+
 
