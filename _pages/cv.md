@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
----
+
 Full CV can be found here.
 
 ## Job Experience
