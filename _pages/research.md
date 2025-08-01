@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Work in Progress
-**The mental health cost of cheap data: Evidence from around the world** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
+**The Mental Health Cost of Cheap Data: Evidence from around the World** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
 
 **TikTok or Treatment? The Causal Effect of High-speed Internet on Mental Health Medication**
 MPhil thesis version: [here](/files/Tiktok or treatment MPhil thesis Robin.pdf)
