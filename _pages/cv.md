@@ -9,7 +9,7 @@ redirect_from:
 Full CV can be found here.  
 
 ## Job Experience
-PhD Candidate at Erasmus School of Economics, 2024 - Current  
+PhD Candidate at Erasmus School of Economics, 2024 - Present  
 Research Assistant at Erasmus School of Economics, July 2023 - July 2024 & December 2021 - June 2022  
 
 ## Education
