@@ -14,7 +14,7 @@ My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonne
 **The Mental Health Cost of Cheap Data: Evidence from around the World** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
 
 **TikTok or Treatment? The Causal Effect of High-speed Internet on Mental Health Medication**
-MPhil thesis version: [here]((/files/Tiktok or treatment MPhil thesis Robin.pdf)
+MPhil thesis version: [here](/files/Tiktok or treatment MPhil thesis Robin.pdf)
 
 ## Current teaching
 TA for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Niels Rietveld](https://www.eur.nl/en/people/niels-rietveld)  
