@@ -7,6 +7,9 @@ author_profile: true
 ## Work in Progress
 **The mental health cost of cheap data: Evidence from around the world** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
 
+**TikTok or Treatment? The Causal Effect of High-speed Internet on Mental Health Medication**
+MPhil thesis version: [here](/files/Tiktok or treatment MPhil thesis Robin.pdf)
+
 ## Research Assistant
 **[Minority Salience and Criminal Justice Decisions](https://docs.iza.org/dp17396.pdf)** by [Kyra Hanemaaijer](https://www.kyrahanemaaijer.com/), [Nadine Ketel](https://sites.google.com/site/nadineketel/home), and [Olivier Marie](https://sites.google.com/site/oliviermarie/) (conditionally accepted at **American Economic Review: Insight**)  
   
