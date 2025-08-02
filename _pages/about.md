@@ -13,7 +13,7 @@ My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonne
 ## Current projects
 **The Mental Health Cost of Cheap Data: Evidence from around the World** with [Olivier Marie](https://sites.google.com/site/oliviermarie/)
 
-**TikTok or Treatment? The Causal Effect of High-speed Internet on Mental Health Medication**
+**TikTok or Treatment? The Causal Effect of High-speed Internet on Mental Health Medication**  
 MPhil thesis version: [here](/files/Tiktok or treatment MPhil thesis Robin.pdf)
 
 ## Current teaching
