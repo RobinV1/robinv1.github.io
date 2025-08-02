@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-Full CV can be found here.  
+Full CV can be found [here](/files/Curriculum Vitae Robin Verbeek website 2025-08-02.pdf).  
 
 ## Job Experience
 PhD Candidate at Erasmus School of Economics, 2024 - Present  
