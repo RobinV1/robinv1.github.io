@@ -19,7 +19,7 @@ My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonne
 ## Current teaching
 Lecturer for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Tim Wienand](https://www.linkedin.com/in/tim-wienand-049379138/)  
 
-Ta for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Vinh Phan]( https://www.eur.nl/en/people/vinh-phan)
+TA for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Vinh Phan]( https://www.eur.nl/en/people/vinh-phan)
 
 **Thesis supervision** for the bachelors and masters in Economics
 
