@@ -17,9 +17,9 @@ My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonne
 <!-- MPhil thesis version: [here](/files/Tiktok or treatment MPhil thesis Robin.pdf) -->
 
 ## Current teaching
-TA for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Niels Rietveld](https://www.eur.nl/en/people/niels-rietveld)  
+Lecturer for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Tim Wienand](https://www.linkedin.com/in/tim-wienand-049379138/)  
 
-TA for **Seminar Economics of the Public Sector** with [Olivier Marie](https://sites.google.com/site/oliviermarie/), [Elisabeth Leduc](https://sites.google.com/view/elisabethleduc/about-me), and [Tommaso Tulkens](https://www.linkedin.com/in/tommaso-tulkens-economics/)
+Ta for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Vinh Phan]( https://www.eur.nl/en/people/vinh-phan)
 
-**Thesis supervision** for the bachelors and masters in Economics, and the bachelor in Econometrics and Operations Research
+**Thesis supervision** for the bachelors and masters in Economics
 
