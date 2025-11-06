@@ -7,7 +7,7 @@ author_profile: true
 ## Current teaching
 2025 - Present: Lecturer for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://www.eur.nl/en/people/carlos-riumallo-herl) and [Tim Wienand](https://www.linkedin.com/in/tim-wienand-049379138/)  
 
-2025 - Present: TA for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Vinh Phan]( https://www.eur.nl/en/people/vinh-phan)
+2025 - Present: TA for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Vinh Phan]( https://www.vinhphan.nl/)
 
 2024 - Present: **Thesis supervision** for the bachelors and masters in Economics
 
