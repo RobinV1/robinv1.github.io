@@ -21,5 +21,4 @@ Lecturer for **Advanced Empircal Methods** with [Carlos Riumallo Herl](https://w
 
 TA for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Vinh Phan](https://www.vinhphan.nl/)
 
-**Thesis supervision** for the bachelors and masters in Economics
 
