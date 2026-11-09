@@ -17,7 +17,7 @@ My supervisors are [Owen O'Donnell](https://www.eur.nl/en/ese/people/owen-odonne
 <!-- MPhil thesis version: [here](/files/Tiktok or treatment MPhil thesis Robin.pdf) -->
 
 ## Current teaching
-Lecturer for **Advanced Empircal Methods** with [Sjoerd van Alten](https://sites.google.com/view/sjoerd-van-alten/home) and [Milena Nakashima](https://www.linkedin.com/in/milena-mitiko-nakashima-714601167/)  
+Lecturer for **Advanced Empirical Methods** with [Sjoerd van Alten](https://sites.google.com/view/sjoerd-van-alten/home) and [Milena Nakashima](https://www.linkedin.com/in/milena-mitiko-nakashima-714601167/)  
 
 TA for **Research Project** with [Bastian Ravesteijn](https://sites.google.com/site/bastianravesteijn/), [Aysenur Ahsen](https://www.linkedin.com/in/ay%C5%9Fenur-ahsen-241708309/), and [Anandita Bardia](https://www.linkedin.com/in/anandita-bardia/)
 
